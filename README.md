@@ -21,3 +21,11 @@ Fix:
 
 UI:
 <img width="1213" alt="image" src="https://github.com/muhammedsafuvan/NewsSummary/assets/72472792/55d76d85-ba5f-4374-ad13-ff32e08b4742">
+
+O/P:
+<img width="1204" alt="image" src="https://github.com/muhammedsafuvan/NewsSummary/assets/72472792/7602b52b-b859-46f1-8ba2-31135b6be94d">
+
+API Testing: Postman
+<img width="1026" alt="image" src="https://github.com/muhammedsafuvan/NewsSummary/assets/72472792/6550df1f-259a-4292-bf22-1cfbd3a4ffcc">
+
+
