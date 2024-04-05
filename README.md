@@ -17,3 +17,7 @@ Fix:
   brew install python-tk@3.10
 
 '''
+
+
+UI:
+<img width="1213" alt="image" src="https://github.com/muhammedsafuvan/NewsSummary/assets/72472792/55d76d85-ba5f-4374-ad13-ff32e08b4742">
